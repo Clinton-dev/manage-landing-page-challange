@@ -30,6 +30,7 @@ Users should be able to:
 
 ![](./Screenshot.png)
 ![](./Screenshot2.png)
+![](./Screenshot3.png)
 
 ### Links
 
